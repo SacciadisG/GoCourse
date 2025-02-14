@@ -1,5 +1,6 @@
 package main
 
+// Same as other languages, you need to import external libraries - VSCODE does it automatically :)
 import (
 	"fmt"
 	"os"
